@@ -2,6 +2,6 @@
 
 number = int(input("Enter a number: "))
 
-square = number * number
+square =  number**2
 
-print("The square of the number you have given is ", square)
+print("The square of the number you have given is", square)
