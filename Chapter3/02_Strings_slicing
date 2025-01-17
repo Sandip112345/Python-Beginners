@@ -1,0 +1,29 @@
+ss = name[1:5]
+print(ss)
+
+negative = name[-3:-1]
+print(negative)
+
+single = name[ : 5]
+print(single)
+
+single = name[5 :]
+print(single)
+
+print(single.capitalize())
+
+
+# Slicing with skip value
+
+name = "Tere ko kya malum"
+
+nslice = name[1:6]
+print(nslice) # output be ere k 
+
+nslice = name[1:6:2]
+print(nslice) 
+
+
+
+
+
