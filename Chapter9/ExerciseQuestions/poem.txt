@@ -1,0 +1,2 @@
+Write a program to read the text from a give from 'poem.txt'
+and find out whether it contains the word 'twinkle'
