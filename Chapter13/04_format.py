@@ -1,0 +1,6 @@
+a = "{} is a good {}.".format("Sandip", "Boya")
+b = "{0} is a good {1}.".format("Sandip", "Boya")
+c = "{1} is a good {0}.".format("Sandip", "Boya")
+print(a)
+print(b)
+print(c)

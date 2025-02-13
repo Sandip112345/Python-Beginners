@@ -1,0 +1,19 @@
+1. Virtual Environment
+
+    1.1. Installation
+
+        pip install virtualenv
+
+    1.2. Creating Venv file
+
+        virtualenv myprojectenv
+
+    1.3. freeze command
+        pip freeze 
+
+        it returns all the pakages installed in a 
+        given python envioronment along with the versions
+
+        pip freeze > requireent.txt
+
+        
